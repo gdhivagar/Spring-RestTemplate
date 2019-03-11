@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spring RestTemplate</string>
+    <string name="recyclerview_horizontal">RecyclerView Horizontal</string>
+    <string name="recyclerview_vertical">RecyclerView Vertical</string>
+    <string name="todo">TODO</string>
+    <string name="gridlayout">GridLayout</string>
+
+</resources>
